@@ -65,7 +65,8 @@ Output Graph:
 <img width="630" height="470" alt="image" src="https://github.com/user-attachments/assets/0def0014-4631-4c93-a7e8-a9a6fd84e17e" />
 
 Tabulation:
-![WhatsApp Image 2025-10-28 at 10 30 56_64a287ca](https://github.com/user-attachments/assets/b24ed07d-1089-44db-99e2-c9945457203d)
+
+![WhatsApp Image 2025-11-27 at 19 02 00_d491af0a](https://github.com/user-attachments/assets/e9226c4c-6450-49fb-b2e7-67763dd7a2fe)
 
 
 
